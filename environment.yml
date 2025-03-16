@@ -132,7 +132,6 @@ dependencies:
   - zstd=1.4.9=haebb681_0
   - pip:
     - addict==2.4.0
-    - mmcv-full==1.4.8
     - opencv-python==4.5.5.64
     - pyparsing==3.0.8
     - pyyaml==6.0
