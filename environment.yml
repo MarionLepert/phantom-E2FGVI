@@ -1,4 +1,4 @@
-name: e2fgvi
+name: phantom_e2fgvi
 channels:
   - pytorch
   - defaults
